@@ -1,0 +1,13 @@
+streamlit
+tensorflow==2.20.0
+pillow==2.4.1
+numpy
+pandas
+matplotlib
+scikit-learn    
+seaborn
+plotly
+opencv-python
+requests    
+flask
+flask-cors
